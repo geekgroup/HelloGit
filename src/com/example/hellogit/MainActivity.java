@@ -15,11 +15,21 @@ public class MainActivity extends Activity {
 	/**
 	 * 
 	 * @Title: onStart
-	 * @Description: 121828403@qq.com
+	 * @Description: 121828403@qq.com 
 	 */
 	@Override
 	protected void onStart() {
 		super.onStart();
+	}
+	
+	/**
+	 * 
+	 * @Title: onResume
+	 * @Description: 121828403@qq.com
+	 */
+	@Override
+	protected void onResume() {
+		super.onResume();
 	}
 	
 	/**
